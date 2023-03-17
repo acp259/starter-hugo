@@ -1,6 +1,7 @@
 ---
 title: Alexis
-role: "Deciple of Toby "
+role: Talent Acquisition Intern at Minitab
+avatar_filename: null
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
