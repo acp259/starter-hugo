@@ -14,15 +14,13 @@ social:
     link: /#contact
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/alexisparra00
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
   - name: Pennsylvania State University
     url: https://www.psu.edu/
-  - name: Psi Chi
-    url: https://sites.psu.edu/psichi/
 education:
   courses:
     - course: M.S. in Human Resources Employment Relations
